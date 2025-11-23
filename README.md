@@ -31,3 +31,7 @@ Imports and displays an ASCII logo from art.py at the beginning of the program.
    -Non-alphabet characters remain unchanged.<br>
 5. The resulting encoded/decoded message is displayed.
 6. The user can choose to run the cipher again or exit.
+
+## Requirement
+1. Python 3.14.0
+2. art.py containing a variable named logo
